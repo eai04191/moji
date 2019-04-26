@@ -1,18 +1,14 @@
-Moji.js [![npm version](https://badge.fury.io/js/moji.svg)](http://badge.fury.io/js/moji)
+Moji.js [![npm version](https://badge.fury.io/js/%40eai%2Fmoji.svg)](https://badge.fury.io/js/%40eai%2Fmoji)
 =========================================================================================
 
 JavaScriptで、半角英数↔全角英数、半角カナ↔全角カナ、ひらがな↔カタカナ変換等をあつかうライブラリ
-
-## 注意
-githubはversion1になっていますが、npmはver0.5系のままですので、ご注意ください。
-最終確認後、npmもversion1にあげます。
 
 インストール
 ------------
 
 ### ブラウザ
 
-[ダウンロード](https://github.com/niwaringo/moji/releases/download/V1.2.0/moji.js)
+[ダウンロード](https://github.com/eai04191/moji/releases/download/V1.2.0/moji.js)
 
 ```javascript
 <script src="/path/to/script/moji.js"></script>

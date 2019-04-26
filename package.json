@@ -1,5 +1,5 @@
 {
-  "name": "moji",
+  "name": "@eai/moji",
   "version": "1.2.0",
   "description": "半角全角変換・特定文字抽出など日本語を便利に扱うJavaScriptライブラリ。",
   "main": "dist/moji.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/niwaringo/moji"
+    "url": "git+https://github.com/eai04191/moji.git"
   },
   "keywords": [
     "半角",
@@ -21,12 +21,12 @@
     "半角カナ",
     "変換"
   ],
-  "author": "@niwaringo",
+  "author": "@eai04191",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/niwaringo/mojic/issues"
+    "url": "https://github.com/eai04191/mojic/issues"
   },
-  "homepage": "https://github.com/niwaringo/moji",
+  "homepage": "https://github.com/eai04191/moji",
   "devDependencies": {
     "babel-core": "^6.24.1",
     "babel-loader": "^7.0.0",
@@ -41,5 +41,9 @@
     "mocha": "^3.2.0",
     "webpack": "^2.4.1"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  }
 }
